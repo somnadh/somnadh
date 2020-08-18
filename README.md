@@ -62,7 +62,7 @@ Address:50-49-16,T.P.T colony,Seethammadhara,Visakhapatnam-13
 
 [![alt text][5.1]][5]
 
-[5.1]:<img src="https://img.icons8.com/ios/35/000000/youtube-squared.png"/>
+[5.1]:https://img.icons8.com/ios/35/000000/youtube-squared.png
 
 [5]: https://www.youtube.com/channel/UCcqqcxR_5hQaQtrI7D7MpNQ
 
