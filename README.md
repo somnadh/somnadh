@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 ## Menu
-- [📱 Contact](#-contact-)
-- [👨 Social](#-social-)
-- [🎞 Streaming](#-streaming-)
-- [🚀 Skills](#-skills-)
-- [🐸 Others](#-others-)
-- [✏ Make yourself](#-make-yourself-)
+- [📱 Contact](#-contact)
+- [👨 Social](#-social)
+- [🎞 Streaming](#-streaming)
+- [🚀 Skills](#-skills)
+- [🐸 Others](#-others)
+- [✏ Make yourself](#-make-yourself)
 
 ## 📱 Contact
 Mobile Number:7989349738<br/>
