@@ -47,7 +47,7 @@ Mobile Number:7989349738
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://i.imgur.com/0IdggSZ.png (linkedin)
+[3.1]: <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/> (linkedin)
 [4.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
