@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 ## 📱 Contact
 Mobile Number:7989349738
 
-Image | Uri
------------- | -------------
-<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> | ```https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" ```
+
 
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
