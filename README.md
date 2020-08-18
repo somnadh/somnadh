@@ -32,7 +32,7 @@ Address:50-49-16,T.P.T colony,Seethammadhara,Visakhapatnam-13
 
 
 
-## 👨Social(#welcome-badges-4-readmemd-profile)
+## 👨Social
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
