@@ -47,7 +47,7 @@ Mobile Number:7989349738
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://www.google.com/imgres?imgurl=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F10-brands-and-social-media%2Flinkedin-round.png&imgrefurl=https%3A%2F%2Fuxwing.com%2Flinkedin-round-icon%2F&tbnid=iVjOyEqvYeht1M&vet=12ahUKEwiq_4LVnaXrAhXbU30KHebICD8QMygGegUIARDAAQ..i&docid=OrLyv3hFRWD0KM&w=400&h=400&q=linkedinicon%20png&ved=2ahUKEwiq_4LVnaXrAhXbU30KHebICD8QMygGegUIARDAAQ (linkedin)
+[3.1]: https://i.imgur.com/0IdggSZ.png (linkedin)
 [4.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
