@@ -36,10 +36,10 @@ Mobile Number:7989349738
 
 Image | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> | https://twitter.com/Somnadh5
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> | ``` https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white ```
-![Twitter URL](https://img.shields.io/twitter/url?color=1DA1F2&label=somunadham%20kinthada&logo=twitter&logoColor=%23FF0000&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSomnadh5)<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ```
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> | https://www.facebook.com/somnadh.kinthada.9
 
+![Twitter URL](https://img.shields.io/twitter/url?color=1DA1F2&label=somunadham%20kinthada&logo=twitter&logoColor=%23FF0000&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSomnadh5) |https://twitter.com/Somnadh5
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | https://www.linkedin.com/in/somunadham-kinthada-02b6991a8/
 
 ## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
 
