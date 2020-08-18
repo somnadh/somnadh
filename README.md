@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## 📱 Contact
 Mobile Number:7989349738
+Gmail:somunadhm26@gmail.com
+Address:50-49-16,T.P.T colony,Seethammadhara,Visakhapatnam-13
 
 
 
@@ -56,23 +58,23 @@ Mobile Number:7989349738
 [3]: https://www.linkedin.com/in/somunadham-kinthada-02b6991a8/
 [4]: https://github.com/somnadh
 
-## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
+## 🎞 Streaming 
 
-[![alt text][1.1]][1]
+[![alt text][5.1]][5]
 
-[1.1]:<img src="https://img.icons8.com/ios/35/000000/youtube-squared.png"/>
+[5.1]:<img src="https://img.icons8.com/ios/35/000000/youtube-squared.png"/>
 
-[1]: https://www.youtube.com/channel/UCcqqcxR_5hQaQtrI7D7MpNQ
+[5]: https://www.youtube.com/channel/UCcqqcxR_5hQaQtrI7D7MpNQ
 
-## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
-
-
-
-## 🐸 Others [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 Skills 
 
 
 
-## ✏ Make yourself [🔝](#welcome-badges-4-readmemd-profile)
+## 🐸 Others 
+
+
+
+## ✏ Make yourself 
 
 
 
