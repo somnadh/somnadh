@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 - [✏ Make yourself](#-make-yourself-)
 
 ## 📱 Contact
-Mobile Number:7989349738
-Gmail:somunadhm26@gmail.com
-Address:50-49-16,T.P.T colony,Seethammadhara,Visakhapatnam-13
+Mobile Number:7989349738<br/>
+Gmail:somunadhm26@gmail.com<br/>
+Address:50-49-16,<br/>
+T.P.T colony,<br/>
+Seethammadhara,<br/>
+Visakhapatnam-13<br/>
+AndhraPradesh
 
 
 
