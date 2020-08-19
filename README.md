@@ -73,7 +73,7 @@ AndhraPradesh
 ## 🚀 Skills 
 [![alt text][6.1]][6]
 
-[6.1]: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+[6.1]:https://img.icons8.com/ios/50/000000/python.png
 
 ## 🐸 Others 
 
