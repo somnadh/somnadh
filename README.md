@@ -68,49 +68,49 @@ AndhraPradesh
 
 ## 🚀 Skills 
 
-![alt text][7.1]
+![alt text][6.1]
 
 [6.1]:https://img.icons8.com/ios/50/000000/circled-c.png
 
-[![alt text][7.1]]
+![alt text][7.1]
 
 [7.1]: https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png
 
-[![alt text][8.1]]
+![alt text][8.1]
 
 [8.1]: https://img.icons8.com/ios-filled/50/000000/html-5.png
 
-[![alt text][9.1]]
+![alt text][9.1]
 
 [9.1]: https://img.icons8.com/material-outlined/26/000000/jsp.png
 
-[![alt text][10.1]]
+![alt text][10.1]
 
 [10.1]: https://img.icons8.com/ios/50/000000/python.png
 
-[![alt text][11.1]]
+![alt text][11.1]
 
 [11.1]: https://img.icons8.com/ios-filled/50/000000/django.png
 
-[![alt text][12.1]]
+![alt text][12.1]
 
 [12.1]: https://img.icons8.com/material/24/000000/oracle-logo.png
 
-[![alt text][13.1]]
+![alt text][13.1]
 
 [13.1]:https://img.icons8.com/ios-filled/50/000000/postgreesql.png
 
 ## 🐸 IDE's 
 
-[![alt text][14.1]]
+![alt text][14.1]
 
 [14.1]: https://img.icons8.com/windows/32/000000/netbeans.png
 
-[![alt text][15.1]]
+![alt text][15.1]
 
 [15.1]:https://img.icons8.com/windows/32/000000/java-eclipse.png
 
-[![alt text][16.1]]
+![alt text][16.1]
 
 [16.1]:https://img.icons8.com/ios-filled/50/000000/visual-studio-logo.png
 
@@ -118,7 +118,8 @@ AndhraPradesh
 
 ## ✏ Make yourself 
 
-
+People don't care about what you say, they care about what you build. </br>
+- Mark Zuckerberg
 
 ## More
 
