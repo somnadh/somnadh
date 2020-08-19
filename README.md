@@ -69,7 +69,7 @@ AndhraPradesh
 ## 🚀 Skills 
 [![alt text][6.1]][6]
 
-[6.1]: https://img.icons8.com/ios/50/000000/circled-c.png
+[6.1]:https://img.icons8.com/ios/50/000000/circled-c.png
 
 [![alt text][7.1]][7]
 
