@@ -67,7 +67,7 @@ AndhraPradesh
 [5]: https://www.youtube.com/channel/UCcqqcxR_5hQaQtrI7D7MpNQ
 
 ## 🚀 Skills 
-[![alt text][6.1]]
+
 
 [6.1]:https://img.icons8.com/ios/50/000000/circled-c.png
 
