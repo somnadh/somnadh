@@ -71,8 +71,9 @@ AndhraPradesh
 [5]: https://www.youtube.com/channel/UCcqqcxR_5hQaQtrI7D7MpNQ
 
 ## 🚀 Skills 
+[![alt text][6.1]][6]
 
-
+[6.1]: https://www.flaticon.com/authors/freepik
 
 ## 🐸 Others 
 
