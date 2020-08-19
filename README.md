@@ -2,18 +2,14 @@
 
 <!--
 **somnadh/somnadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Learning AWS @ APSSDC
+- 🌱 I’m currently Doing Web Applications
+- 👯 I’m looking to collaborate on mostly towards innovative technology,but language acquisition and learning are a close second
+- 💬 Ask me about java,python,django,AWS,oracle
+- 😄 Pronouns: Dude or Bro
+- ⚡ Fun fact: Creative Coder
 
 
 ## Menu
@@ -21,7 +17,7 @@ Here are some ideas to get you started:
 - [👨 Social](#-social)
 - [🎞 Streaming](#-streaming)
 - [🚀 Skills](#-skills)
-- [🐸 Others](#-others)
+- [🐸 IDE's](#-IDE's)
 - [✏ Make yourself](#-make-yourself)
 
 ## 📱 Contact
@@ -73,9 +69,49 @@ AndhraPradesh
 ## 🚀 Skills 
 [![alt text][6.1]][6]
 
-[6.1]:https://img.icons8.com/ios/50/000000/python.png
+[6.1]: https://img.icons8.com/ios/50/000000/circled-c.png
 
-## 🐸 Others 
+[![alt text][7.1]][7]
+
+[7.1]: https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png
+
+[![alt text][8.1]][8]
+
+[8.1]: https://img.icons8.com/ios-filled/50/000000/html-5.png
+
+[![alt text][9.1]][9]
+
+[9.1]: https://img.icons8.com/material-outlined/26/000000/jsp.png
+
+[![alt text][10.1]][10]
+
+[10.1]: https://img.icons8.com/ios/50/000000/python.png
+
+[![alt text][11.1]][11]
+
+[11.1]: https://img.icons8.com/ios-filled/50/000000/django.png
+
+[![alt text][12.1]][12]
+
+[12.1]: https://img.icons8.com/material/24/000000/oracle-logo.png
+
+[![alt text][13.1]][13]
+
+[13.1]:https://img.icons8.com/ios-filled/50/000000/postgreesql.png
+
+## 🐸 IDE's 
+
+[![alt text][14.1]][14]
+
+[14.1]: https://img.icons8.com/windows/32/000000/netbeans.png
+
+[![alt text][15.1]][15]
+
+[15.1]:https://img.icons8.com/windows/32/000000/java-eclipse.png
+
+[![alt text][16.1]][16]
+
+[16.1]:https://img.icons8.com/ios-filled/50/000000/visual-studio-logo.png
 
 
 
