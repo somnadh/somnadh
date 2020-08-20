@@ -4,8 +4,8 @@
 **somnadh/somnadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently Learning AWS @ APSSDC
-- 🌱 I’m currently Doing Web Applications
+- 🔭 I’m currently Doing Web Applications
+- 🌱 I’m currently Learning AWS @ APSSDC
 - 👯 I’m looking to collaborate on mostly towards innovative technology,but language acquisition and learning are a close second
 - 💬 Ask me about java,python,django,AWS,oracle
 - 😄 Pronouns: Dude or Bro
